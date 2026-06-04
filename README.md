@@ -1,16 +1,24 @@
-## Hi there 👋
+💫 About Me:
+Hi 👋 I’m [Asad Munir]
 
-<!--
-**Asaaaa194/Asaaaa194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working on web development
+- 🌱 Learning coding
+- 💬 Ask me about HTML/CSS
+- ⚡ Fun fact: I love coding
+🌐 Socials:
+[Facebook](https://facebook.com/Asad Munir) Instagram LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C++ NumPy Pandas GitHub Python JavaScript Java HTML5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Asad Munir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Asad Munir&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Asad Munir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Asad Munir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://komarev.com/ghpvc/?username=Asad Munir&icon=0&color=0)
